@@ -1,2 +1,2 @@
 # FinanceTracker
-Finance Tracker to handle financial data
+A simple command line Finance Tracker to handle financial data
