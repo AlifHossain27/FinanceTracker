@@ -1,0 +1,6 @@
+os
+sqlite3
+datetime
+functools
+operator
+simple_term_menu==1.5.2
